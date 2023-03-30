@@ -40,7 +40,7 @@ class _SplashState extends State<Splash> {
           body: Padding(
               padding: EdgeInsets.all(16),
             child: Center(
-            child: Image.asset('asssets/splash.png')
+            child: Image.asset('assets/splash.png')
             ),
               )),
       debugShowCheckedModeBanner: false,
